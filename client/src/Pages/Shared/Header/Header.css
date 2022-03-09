@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .NavItem{
+    @apply bg-white lg:border-4 2xl:border-8 border-gray-100 rounded-full lg:px-4
+     py-1 inline-block lg:mr-2 shadow-lg transition
+  }
+  .NavItem:hover{ 
+    @apply shadow-sm
+  }
+
+  .xsNevItem{
+    @apply text-xl bg-white mb-3 border-gray-100 rounded-full inline-block w-full p-2 shadow-md
+  }
+
+}
