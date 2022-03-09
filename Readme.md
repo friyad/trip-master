@@ -2,7 +2,7 @@
 
 **Live Site Link: https://tripmaster-2fada.web.app/**
 
-**Live Site Link: https://cryptic-spire-27482.herokuapp.com/**
+**Live Server Link: https://cryptic-spire-27482.herokuapp.com/**
 
 
 - The trip master is an travel booking website for turists.
